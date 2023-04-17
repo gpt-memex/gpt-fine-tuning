@@ -1,0 +1,56 @@
+5 themes observed in broadband initiatives across rural America
+Local communities in rural America are showing what needs to happen to make “Internet for all” financially feasible on a global scale, this post elaborates 5 themes I observed at the Broadband Communities Conference held in Ontario CA (Oct 2018)
+
+When I first shared with my friends and family that I will quit my career to make internet access affordable for all (c. March 2016), a good friend joked with me saying he always knew I was a “commie” and reminded me of this quote by Vladimir Lenin (1920).
+Soon after reading this quote I became curious about how America (the anti-thesis of communism) solved its electricity access problem. For context, in the 1930s, 9/10 households did not have to access to electricity in America. By early 1970s, 98% of all rural farms had electrical service. The catalyst to this rapid infrastructure deployment was an incredible piece of legislation called the Rural Electrification Act of 1936.
+The REA used federal funds to create electric cooperatives which used local labor to build out and maintain electricity infrastructure. In addition, REA hired advisors like Louisan Mamer (1910–2005) to show people how to use electricity.
+Today about 900 electric cooperatives serve 56 percent of geographic America, despite accounting for only 11% of total electricity distribution revenues across the United States. Last week I got to meet individuals working for entities that were created as a result of the REA. Many of them are now focused on bringing high speed Internet to their communities because telephone and cable corporations are not incentivized to build infrastructure in sparsely populated areas.
+While listening to presenters who have mobilized local governments and communities to build broadband infrastructure, I observed the following themes:
+
+1. Broadband is not a partisan issue
+Tune into CNN or Fox News and it seems that Republicans and Democrats are ready to annihilate each other. There is no doubt that America is more polarized today than years past but when it comes to bringing high quality internet access to ignored areas, political ideologies become secondary.
+Several presenters shared this view but the session which provided richer insights was the one hosted by Deborah and James Fallows. The Fallows shared findings from their travels across smaller towns one normally doesn’t hear about (see map below). The Fallows emphasized that the key ingredient which ensures collaboration across the aisle is mutual respect.
+Deborah shared that she often found herself near a library in the evening as quite often only libraries had internet access and librarians were kind enough to leave WiFi on. The more interesting comment was about the homeless: Deborah shared that many homeless people said that it’s only at libraries where they get respect and that’s why they often congregate there.
+Avenues to explore based on this theme: identify conferences where city and local government officials from different countries can get an opportunity to learn from one another. Identify libraries on maps where fiber deployments are being planned.
+
+2. Local government involvement ensures community buy-in and enhances Internet adoption rates
+Lloyd Levine shared findings of his research paper in which he draws an important distinction between broadband “access” and “adoption”. He goes on to define what “meaningful internet access” is and suggests that smartphones by themselves are not sufficient to provide meaningful internet access.
+
+The more interesting fact he highlighted was that most telephone and cable corporations have affordable internet access plans (under $10/month on average) but that their call centers and customer service representatives are not incentivized to help improve “adoption” among low income individuals.
+As a result of misaligned incentives, 30% of Californians lack meaningful internet access.
+Lloyd Levine’s experiences as a California state law maker was in stark contrast to Joe Knapp’s experience from Sandy Oregon. Joe said that if SandyNet has an operational or service issue, he starts getting messages immediately from people he sees all the time at the grocery store, at school or at any community event. The case of SandyNet is quite inspiring especially considering the city of Sandy has a population of under 10,000!
+Instead of giving dividends to stockholders, SandyNet focuses on keeping prices low for residents. This quote from Joe Knapp really stood out:
+“We’re able to operate very lean because my service footprint is Sandy and my staff all live and work in Sandy, so we’re able to operate in a different manner than a lot of those companies (AT&T, Verizon, Comcast etc) are”
+Avenues to explore based on this theme: The biggest deployment in Middle America that I know of has 175,000 people (Chattanooga, TN) and the smallest with under 10,000 people. Beyond a certain size, any effort loses the “local” touch, but what is that size?
+
+3. “If you build it, they will come” is a fallacy, spelling out impact and describing applications is essential
+Building open access infrastructure is just one part of the equation, spelling out precisely what infrastructure can do increases stakeholder alignment. Not every application can be envisioned from the get go but allocating time to imagine applications and quantify benefits increase likelihood of success. Katie Espeseth, VP of New Products at Electric Power Board (EPB) presented Chattanooga’s story.
+She emphasized the need to spell out applications and collaborate with partners to put infrastructure to use. What I loved about Katie’s talk was her focus on impact. She set the stage by sharing a quote from Walter Cronkite (American journalist) who called Chattanooga the “dirtiest city in America”. Through photographs she showed how Chattanooga has left behind its dirty city legacy and has now become “Gig city” (i.e. city offering gigabit speed internet access).
+My favorite example from Katie’s talk was about how high schools students in Chattanooga are able to experience biology and STEM like never before because their fiber network allows for high resolution imagery to get transmitted at very low latency levels. This video shows how students in Chattanooga are learning from a professor based in California while getting to operate a powerful microscope using a mouse thanks in part to a fiber network.
+Avenues to explore based on this theme: quantify economic and financial impact resulting from large scale fiber deployments on utility infrastructure. Perhaps figure out a way to make such videos as well to get the point across.
+
+4. Fiber is (most likely) future proof but conduit has often made all the difference
+My favorite slide from the conference was presented by Joanne Hovis, CEO of CTC Technologies which showed capabilities of different communication technologies and thanks to an awesome search engine like Google I’ve been able to locate that slide without bothering Joanne!
+I am personally on the fiber side of the story as well, my current view says that deploying fiber on electric utility infrastructure is our best bet to make Internet for all financially feasible.
+Fiber’s virtually unlimited capacity is driven by its physics which I don’t understand all that well. However, just noticing the data throughput capability of optical modules over time shows an exponential curve. Considering data consumption grows exponentially as well, fiber as a transport medium seems to be an obvious choice.
+
+Data throughput capacity of optical modules
+That said, the most important and relevant comment I took away was from Nathan Rosenberg from the Broadband Group. Nathan said that fiber is “probably” future proof but that presence of conduit is often what has made the difference in feasible projects and unfeasible projects. I loved this quote from him
+There is such a thing as bad broadband project!
+Conduit is a tube or pipe through which multiple other pipes can pass. Cities which had conduit found that deploying fiber was quite cost effective.
+Avenues to explore based on this theme: identify areas where conduit is deployed but fiber is not, to assess opportunities for low cost fiber deployments.
+
+5. Customer service is a critical success factor, but a monopoly owning the customer relationship is not the “only” option
+Everyone present agreed that customer service is critical, however, not all local broadband initiatives are consumer facing ie last mile served by the municipality or cooperative. Some have chosen (eg Ammon Idaho) to take a wholesale approach where infrastructure acts as an enabler. In contrast, EPB feels very strongly about owning the customer relationship themselves.
+I can see that for towns like Sandy, a consumer facing monopoly makes sense. But for bigger towns it’s possible that complacency sets in eventually and perhaps a wholesale approach would work better.
+Ammon’s model is described as Open Access Virtual Infrastructure (OAVI) which makes the actual infrastructure available to the end user through the use of virtualization, rather than the infrastructure’s services.
+
+OAVI enhances consumer choice by separating the underlying physical infrastructure from the network services. Each end user is empowered by being presented with his own infrastructure. As a result, every user has the ability to receive and/or deliver services across the infrastructure by utilizing a self provisioned network or by joining a network provided by any other user by joint agreement. Here is how the financial model works:
+Within the municipal framework, utility infrastructure build costs are paid by the property owners desiring the utility service. This could be done via a standard municipal bond process which requires the support of the property owners who will receive the utility service.
+The utility infrastructure maintenance and operational costs are paid by the property owners with access to the utility via a monthly utility service fee. It is important to note, that under the OAVI model, the utility service is virtualized infrastructure.
+Services such as the Internet are delivered across the OAVI with an agreement between the provider and the end user. In this instance the end user is the service provider’s customer. When the end user desires a service other than his or her own, the OAVI model puts the end user in the middle of the network service provider and the infrastructure owner, thereby improving consumer choice and control.
+Watching the video below on Ammon’s model is well worth your time, it explains Ammon’s model and applications as well.
+
+Avenues to explore based on this theme: obtain data to assess adoption rate variation depending on business model adopted.
+Acknowledgments
+I am very grateful to Jim Baller of Baller, Stokes & Lide for inviting me to the BBC Magazine conference and for being a champion of affordable broadband for majority of his career.
